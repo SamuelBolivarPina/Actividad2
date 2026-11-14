@@ -1,8 +1,9 @@
+
 public class Empleado {
     public String departamento;
 
     public Empleado(String nombre, int edad, String departamento) {
-        super(nombre, edad);
+        super(nombre,edad);
         this.departamento = departamento;
     }
 
