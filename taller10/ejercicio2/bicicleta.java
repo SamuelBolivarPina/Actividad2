@@ -1,5 +1,4 @@
-public class bicicleta extends  vehiculo{
-    @Override
+public class bicicleta extends vehiculo{
     public void moverse(){
         System.out.println("La bicicleta se está moviendo mediante pedaleo.");
     }
