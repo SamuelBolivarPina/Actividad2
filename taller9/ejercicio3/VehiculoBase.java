@@ -1,3 +1,4 @@
+/*
 public class VehiculoBase {
     {
         private String serialSecreto = "ABC-123";
@@ -10,3 +11,4 @@ public class VehiculoBase {
         }
     }
 }
+*/
